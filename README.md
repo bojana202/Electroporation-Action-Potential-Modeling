@@ -58,7 +58,7 @@ Main observations:
 - action potential generation can be completely suppressed
 
 These results suggest that even weak electroporation may strongly influence the electrical activity of cardiomyocytes.
-
+Link to the Bachelor Thesis: https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161593&lang=slv
 ## Repository Structure
 
 ```text
